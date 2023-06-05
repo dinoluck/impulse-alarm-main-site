@@ -57,13 +57,13 @@ const go_to = (location: string) => {
     <div class="bg-black text-gray-200 text-xs py-3 px-3 w-full">
       <Container>
         &copy; Impulse Alarm LLC {{ new Date().getFullYear() }} \
-        <NuxtLink to="/terms" class="cursor-pointer hover:text-indigo-200"
+        <a href="/terms" class="cursor-pointer hover:text-indigo-200"
           >Terms & Conditions
-        </NuxtLink>
+        </a>
         \
-        <NuxtLink to="/terms" class="cursor-pointer hover:text-indigo-200"
+        <a href="/terms" class="cursor-pointer hover:text-indigo-200"
           >Privacy Policy
-        </NuxtLink>
+        </a>
       </Container>
     </div>
   </div>
