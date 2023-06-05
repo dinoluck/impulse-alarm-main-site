@@ -10,7 +10,7 @@
               <span class="sr-only">Impulse Alarm</span>
               <img
                 class="w-auto h-20 lg:h-14"
-                src="assets/impulse-logo.png"
+                src="/assets/impulse-logo.png"
                 alt=""
               />
             </a>
